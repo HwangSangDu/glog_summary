@@ -1,0 +1,4 @@
+Log file created at: 2019/02/19 17:15:27
+Running on machine: Adams-MacBook-Pro.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0219 17:15:27.829260 197739968 test.cpp:17] ERROR
